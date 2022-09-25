@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsBreeze</string>
+    <string name="news_breeze">News Breeze</string>
+    <string name="search">Search</string>
+    <string name="newsbreeze">NewsBreeze</string>
+    <string name="saved_imageview">Saved ImageView</string>
+</resources>
