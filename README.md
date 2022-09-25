@@ -46,4 +46,4 @@ Minimum SDK Level - 23
 
 
 ## Download APK
-(https://drive.google.com/file/d/101J7qHvFtOh0O5c_ZJYHYN7HfRuv0eTc/view?usp=sharing) to download the latest APK.
+[Download](https://drive.google.com/file/d/101J7qHvFtOh0O5c_ZJYHYN7HfRuv0eTc/view?usp=sharing) to download the latest APK.
