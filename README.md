@@ -30,7 +30,7 @@ the full article.
 
 
 ## Tech Stack & Libraries
-● API: All of the data is receiving from https://newsapi.org/
+● API: All of the data is fetched from https://newsapi.org/
 
 ● Retrofit : Construct the REST APIs.
 
